@@ -22,7 +22,7 @@ The project includes sample .txt files: Clients.txt, Users.txt, TransferLog.txt,
 Sample login: username `User2`, password `1234` (sample account only, with fake data).
 
 ## How to run
-1. Open the .sln file in Visual Studio.
+1. Open MyLibs.vcxproj file in Visual Studio.
 2. Make sure the .txt files are in the same folder as the program.
 3. Press F5.
 
